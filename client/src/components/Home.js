@@ -22,7 +22,7 @@ function Home() {
       return;
     }
 
-    // redirect
+    
     navigate(`/editor/${roomId}`, {
       state: {
         username,
@@ -31,7 +31,7 @@ function Home() {
     toast.success("room is created");
   };
 
-  // when enter then also join
+  
   const handleInputEnter = (e) => {
     if (e.code === "Enter") {
       joinRoom();

@@ -43,16 +43,16 @@
           </ul>
 
     <li><b>Start the backend server.</b></li>   
-      <ul>
-      <li>cd ../server</li>
-       <li>npm start</li>
-      </ul>
+          <ul>
+          <li>cd ../server</li>
+           <li>npm start</li>
+          </ul>
 
-      <li><b>Start the frontend development server.</b></li>   
-      <ul>
-      <li>cd cd ../client</li>
-       <li>npm start</li>
-      </ul>
+    <li><b>Start the frontend development server.</b></li>   
+          <ul>
+          <li>cd cd ../client</li>
+           <li>npm start</li>
+          </ul>
 </ul>
 
 

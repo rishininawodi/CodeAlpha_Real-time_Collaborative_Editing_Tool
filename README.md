@@ -42,7 +42,7 @@
             <li>npm install</li> 
           </ul>
 
-      <li><b>Start the backend server.</b></li>   
+    <li><b>Start the backend server.</b></li>   
       <ul>
       <li>cd ../server</li>
        <li>npm start</li>

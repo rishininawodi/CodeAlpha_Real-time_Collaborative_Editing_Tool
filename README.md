@@ -48,7 +48,8 @@
           <li>cd ../server</li>
            <li>npm start</li>
           </ul>
-
+          </ul>
+<ul>
     <li><b>Start the frontend development server.</b></li>   
           <ul>
           <li>cd ../client</li>

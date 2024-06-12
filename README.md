@@ -1,5 +1,5 @@
 <h1>Real Time Collaberative Tool </h1>
-<p><b>>This is real Time Collabarative  tool which developed using MERN (MongoDB,Express.js,React.js,Node.js)Stack along with Socket.io.Thd tool allows users to create new rooms or join existing rooms using a room ID.Once in a room ,users can collabarate in real-time with multiple other users.</b></p>
+<p><b>This is real Time Collabarative  tool which developed using MERN (MongoDB,Express.js,React.js,Node.js)Stack along with Socket.io.Thd tool allows users to create new rooms or join existing rooms using a room ID.Once in a room ,users can collabarate in real-time with multiple other users.</b></p>
 
 <h3>Features</h3>
 <ul>
@@ -55,6 +55,9 @@
           <li>cd ../client</li>
            <li>npm start</li>
           </ul>
+    </ul>
+    <ul>
+      <li><b>Open your browser and navigate to http://localhost:5000 to access the application.</b></li>
     </ul>
 
 

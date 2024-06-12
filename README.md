@@ -3,9 +3,25 @@
 
 <h3>Features</h3>
 <ul>
-  <li><b>Create New Room:</b>b> Users can create a new collabaration room by prividing username or id.</li>
-    <li><b>Joing Existing Room:</b>b> Users can an existing room by entering the room ID provided by the creater or another participant.</li>
+  <li><b>Create New Room:</b>Users can create a new collabaration room by prividing username or id.</li>
+    <li><b>Joing Existing Room:</b> Users can an existing room by entering the room ID provided by the creater or another participant.</li>
       <li><b>Real Time Collabaration:</b>The tool supports real-time collaboration, enabling multiple users to interact with each other simultaneously. </li>
+</ul>
+
+<h3>Languages Used.</h3>
+<ul>
+  <li><b>Front End:</b></li>
+  <ul>
+    <li><b>React.js :</b>Frontend Library for bulding user interfaces.</li>
+  </ul>
+  <li><b>Backend:</b></li>
+  <ul><li>
+    <b>MongoDB:</b>NoSQL database used for storing room and user data.
+  </li>
+    <li><b>Express.js:</b>Web application framework for building RESTful APIs.</li>
+    <li><b>Noode.js :</b>JavaScript runtime environment for server-side development.</li>
+    <li><b>Socket.IO:</b>Library for enabling real-time, bidirectional communication between web clients and servers.</li>
+  </ul>
 </ul>
 
 

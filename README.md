@@ -1,6 +1,12 @@
 <h1>Real Time Collaberative Tool </h1>
-<p>This is real Time Collabarative  tool which that create by MERN Stack.React and Node .js used for front end and  Express and mongoDB used used for backend...</p>
+<p>This is real Time Collabarative  tool which developed using MERN (MongoDB,Express.js,React.js,Node.js)Stack along with Socket.io.Thd tool allows users to create new rooms or join existing rooms using a room ID.Once in a room ,users can collabarate in real-time with multiple other users.</p>
+
 <h3>Features</h3>
+<ul>
+  <li><b>Create New Room:</b>b> Users can create a new collabaration room by prividing username or id.</li>
+    <li><b>Joing Existing Room:</b>b> Users can an existing room by entering the room ID provided by the creater or another participant.</li>
+      <li><b>Real Time Collabaration:</b>The tool supports real-time collaboration, enabling multiple users to interact with each other simultaneously. </li>
+</ul>
 
 
 <h2>Overview</h2>

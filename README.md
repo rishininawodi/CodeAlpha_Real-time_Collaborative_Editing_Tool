@@ -41,7 +41,8 @@
             <li>cd ../server</li>
             <li>npm install</li> 
           </ul>
-
+    </ul>
+          <ul>
     <li><b>Start the backend server.</b></li>   
           <ul>
           <li>cd ../server</li>
@@ -50,10 +51,10 @@
 
     <li><b>Start the frontend development server.</b></li>   
           <ul>
-          <li>cd cd ../client</li>
+          <li>cd ../client</li>
            <li>npm start</li>
           </ul>
-</ul>
+    </ul>
 
 
 <h2>Overview</h2>

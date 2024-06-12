@@ -1,5 +1,5 @@
 <h1>Real Time Collaberative Tool </h1>
-<p>This is real Time Collabarative  tool which developed using MERN (MongoDB,Express.js,React.js,Node.js)Stack along with Socket.io.Thd tool allows users to create new rooms or join existing rooms using a room ID.Once in a room ,users can collabarate in real-time with multiple other users.</p>
+<p><b>>This is real Time Collabarative  tool which developed using MERN (MongoDB,Express.js,React.js,Node.js)Stack along with Socket.io.Thd tool allows users to create new rooms or join existing rooms using a room ID.Once in a room ,users can collabarate in real-time with multiple other users.</b></p>
 
 <h3>Features</h3>
 <ul>
@@ -22,6 +22,37 @@
     <li><b>Noode.js :</b>JavaScript runtime environment for server-side development.</li>
     <li><b>Socket.IO:</b>Library for enabling real-time, bidirectional communication between web clients and servers.</li>
   </ul>
+</ul>
+
+<h3>Installation</h3>
+<ul>
+  <li><b>Clone the repository to your local machine.</b></li>
+      <ul>
+        <li>git clone <repository_url></li>
+      </ul>
+   <li><b>Navigate to the project directory.</b></li>  
+       <ul>
+          <li>cd real-time-collaborative-tool</li>
+       </ul>
+    <li><b>Install dependencies for the frontend and backend.</b></li>  
+          <ul>
+            <li>cd client</li>
+            <li>npm install</li>
+            <li>cd ../server</li>
+            <li>npm install</li> 
+          </ul>
+
+      <li><b>Start the backend server.</b></li>   
+      <ul>
+      <li>cd ../server</li>
+       <li>npm start</li>
+      </ul>
+
+      <li><b>Start the frontend development server.</b></li>   
+      <ul>
+      <li>cd cd ../client</li>
+       <li>npm start</li>
+      </ul>
 </ul>
 
 
